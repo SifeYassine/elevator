@@ -4,6 +4,8 @@ A simple, animated elevator simulation built with vanilla JavaScript, HTML, and 
 
 Pick the floors you want to visit from the control panel, press **Start**, and watch the elevator travel to each requested floor in order, opening and closing its doors at every stop while the panel reports the total number of floors traveled.
 
+![ElevatorJS](screenshots/demo.png)
+
 ## Features
 
 - **Six-floor building** (F0–F5) rendered entirely with HTML/CSS
